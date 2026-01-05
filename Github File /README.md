@@ -9,8 +9,8 @@ Dataset Details:
 
 Google Sheets Link:
 Google Sheets Dataset and Forcast Simulation & Trendline links are here:
-https://docs.google.com/spreadsheets/d/1WQh2umEZoYw42vBXFGOdV1wFBtSsrascFPLMBdqxCuo/edit?gid=1735672448#gid=1735672448/README.nd
-https://docs.google.com/spreadsheets/d/1WQh2umEZoYw42vBXFGOdV1wFBtSsrascFPLMBdqxCuo/edit?gid=0#gid=0/README.md
+https://docs.google.com/spreadsheets/d/1WQh2umEZoYw42vBXFGOdV1wFBtSsrascFPLMBdqxCuo/edit?gid=1735672448#gid=1735672448
+https://docs.google.com/spreadsheets/d/1WQh2umEZoYw42vBXFGOdV1wFBtSsrascFPLMBdqxCuo/edit?gid=0#gid=0
 
 
 Canva Link:
